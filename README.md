@@ -1,3 +1,3 @@
-# Tamaume's GitHub Pages
+# fuyumai12.github.io
 
-Nothing to see here. The title explains itself.
+Personal GitHub Pages repo of Tamaume.
