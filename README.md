@@ -1,2 +1,3 @@
-# FuyuMai12.github.io
-My personal page
+# Tamaume's GitHub Pages
+
+Nothing to see here. The title explains itself.
